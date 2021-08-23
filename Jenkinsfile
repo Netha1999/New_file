@@ -12,3 +12,5 @@ bat label: '', script: 'mvn clean'
 bat label: '', script: 'mvn install'
 }
 }
+}
+}
